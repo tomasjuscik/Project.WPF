@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.WPF.Impl", "Project.WPF.Impl.csproj", "{08124428-7CD0-46F3-A1B4-428364B62B07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.WPF.Impl", "Project.WPF.Impl\Project.WPF.Impl.csproj", "{08124428-7CD0-46F3-A1B4-428364B62B07}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.WPF.Interfaces", "..\Project.WPF.Interfaces\Project.WPF.Interfaces.csproj", "{5A45A045-67E9-4E6F-BAF6-306101C8794D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.WPF.Interfaces", "Project.WPF.Interfaces\Project.WPF.Interfaces.csproj", "{5A45A045-67E9-4E6F-BAF6-306101C8794D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
