@@ -1,7 +1,6 @@
 ﻿namespace Project.WPF.Interfaces
 {
-    public class Class1
+    public interface ITextFileProcessingModel
     {
-
     }
 }
