@@ -7,7 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\TextFileProcessingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TextFileProcessingView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Project.WPF.Interfaces/1.0.0": {
+        "runtime": {
+          "Project.WPF.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project.WPF.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

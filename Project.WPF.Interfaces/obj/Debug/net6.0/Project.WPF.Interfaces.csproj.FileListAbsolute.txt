@@ -1,0 +1,12 @@
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\bin\Debug\net6.0\Project.WPF.Interfaces.deps.json
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\bin\Debug\net6.0\Project.WPF.Interfaces.dll
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\bin\Debug\net6.0\Project.WPF.Interfaces.pdb
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.csproj.AssemblyReference.cache
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.AssemblyInfoInputs.cache
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.AssemblyInfo.cs
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.csproj.CoreCompileInputs.cache
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.dll
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\refint\Project.WPF.Interfaces.dll
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\Project.WPF.Interfaces.pdb
+D:\Workspace\Project.WPF\Project.WPF.Interfaces\obj\Debug\net6.0\ref\Project.WPF.Interfaces.dll

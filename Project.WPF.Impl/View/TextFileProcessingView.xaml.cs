@@ -1,5 +1,6 @@
 ﻿namespace Project.WPF.Impl.View
 {
+    using Project.WPF.Impl.ViewModel;
     using System.Windows.Controls;
 
     /// <summary>
@@ -10,6 +11,7 @@
         public TextFileProcessingView()
         {
             InitializeComponent();
+            this.DataContext = new TextFileProcessingViewModel();
         }
     }
 }

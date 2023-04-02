@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Project.WPF.Impl/1.0.0": {
+        "dependencies": {
+          "Project.WPF.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Project.WPF.Impl.dll": {}
+        }
+      },
+      "Project.WPF.Interfaces/1.0.0": {
+        "runtime": {
+          "Project.WPF.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project.WPF.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project.WPF.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
