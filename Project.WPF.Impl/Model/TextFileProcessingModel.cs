@@ -32,11 +32,11 @@
             {
                 this._processCanceled = false;
                 this._repeatedWordCount = new Dictionary<string, int>();
-                int iterator = 1;
+                int helpNum = 1;
                 var words = text.Split(new char[0], StringSplitOptions.RemoveEmptyEntries);
                 foreach (var word in words)
                 {
-                    //Sleep for progress bar visualization
+                    //Sleep for better progress bar visualization
                     Thread.Sleep(100);
                     if (this._processCanceled)
                     {
@@ -53,9 +53,9 @@
                     {
                         this._repeatedWordCount.Add(word, 1);
                     }
-                    int percentComplete = Convert.ToInt32(100 * iterator / words.Length);
+                    int percentComplete = Convert.ToInt32(100 * helpNum / words.Length);
                     this.ProgressChanged?.Invoke(this, percentComplete);
-                    iterator++;
+                    helpNum++;
                 }
             }
             catch

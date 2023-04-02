@@ -53,7 +53,7 @@ namespace Project.WPF.Impl.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Project.WPF.Impl;component/view/textfileprocessingview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Project.WPF.Impl;V1.0.0.0;component/view/textfileprocessingview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\TextFileProcessingView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
